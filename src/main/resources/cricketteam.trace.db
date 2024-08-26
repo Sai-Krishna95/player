@@ -1,0 +1,18 @@
+2024-08-22 10:37:45 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "CRICKETTEAM" not found; SQL statement:
+select player0_.player_id as player_i1_0_, player0_.jersey_number as jersey_n2_0_, player0_.player_name as player_n3_0_, player0_.role as role4_0_ from cricketteam player0_ [42102-214]
+2024-08-22 11:03:10 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "CRICKETTEAM" not found; SQL statement:
+select player0_.player_id as player_i1_0_, player0_.jersey_number as jersey_n2_0_, player0_.player_name as player_n3_0_, player0_.role as role4_0_ from cricketteam player0_ [42102-214]
+2024-08-22 11:28:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "CRICKETTEAM" not found; SQL statement:
+select player0_.player_id as player_i1_0_, player0_.jersey_number as jersey_n2_0_, player0_.player_name as player_n3_0_, player0_.role as role4_0_ from cricketteam player0_ [42102-214]
+2024-08-22 11:28:32 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "CRICKETTEAM" not found; SQL statement:
+select player0_.player_id as player_i1_0_0_, player0_.jersey_number as jersey_n2_0_0_, player0_.player_name as player_n3_0_0_, player0_.role as role4_0_0_ from cricketteam player0_ where player0_.player_id=? [42102-214]
+2024-08-22 15:28:23 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "CRICKETTEAM" not found; SQL statement:
+select player0_.player_id as player_i1_0_, player0_.jersey_number as jersey_n2_0_, player0_.player_name as player_n3_0_, player0_.role as role4_0_ from cricketteam player0_ [42102-214]
+2024-08-26 07:33:49 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "CRICKETTEAM" not found; SQL statement:
+select player0_.player_id as player_i1_0_, player0_.jersey_number as jersey_n2_0_, player0_.player_name as player_n3_0_, player0_.role as role4_0_ from cricketteam player0_ [42102-214]
